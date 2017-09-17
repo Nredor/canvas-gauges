@@ -1,6 +1,6 @@
 {
   "name": "vue-canvas-gauges",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Canvas gauges component is based on canvas-gauges for Vue",
   "main": "src/index.js",
   "scripts": {},
