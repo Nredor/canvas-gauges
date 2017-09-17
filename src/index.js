@@ -1,7 +1,7 @@
-import LinearGauge from './LinearGauge'
-import RadialGauge from './RadialGauge'
+import LinearGauge from './LinearGauge.vue'
+import RadialGauge from './RadialGauge.vue'
 
-module.exports = {
+export {
   LinearGauge,
   RadialGauge
 }
